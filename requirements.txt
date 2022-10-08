@@ -1,0 +1,7 @@
+# pyaudio
+# websockets
+pandas 
+matplotlib
+seaborn
+librosa
+noisereduce
