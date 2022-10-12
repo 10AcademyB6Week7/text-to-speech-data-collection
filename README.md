@@ -99,7 +99,7 @@ sudo python3 setup.py install
 ## Getting Started
 
 ## Articles
-- [Medium Article](https://medium.com/)
+- [Medium Article](https://medium.com/@isaaclucky88/data-engineering-text-to-speech-data-collection-with-kafka-airflow-and-spark-8745cb8d43f7)
 
 ### Prerequisites
 
